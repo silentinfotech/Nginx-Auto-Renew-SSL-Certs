@@ -1,3 +1,7 @@
+#########################################################################
+#           Copyright (c) [2016] [Silent Infotech LLP]                  #
+#########################################################################
+
 NGINX_CONF_DIR=$1
 LETSENC_BIN="/root/letsencrypt/letsencrypt-auto"
 DEFAULT_DOMAIN="silentinfotech.com"
